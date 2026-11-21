@@ -1,0 +1,8 @@
+<Bindings>
+	<Binding name="WOWHEADLOOKUP_MOUSEOVER" header="WOWHEADLOOKUP" category="ADDONS">
+		WowheadLookup_Mouseover()
+	</Binding>
+	<Binding name="WOWHEADLOOKUP_TOGGLE" category="ADDONS">
+		WowheadLookup_Toggle()
+	</Binding>
+</Bindings>

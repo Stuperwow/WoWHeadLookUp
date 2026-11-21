@@ -1,0 +1,9 @@
+## Interface: 16001
+## Title: WowheadLookup
+## Notes: A little "Wowhead" chat window: type or shift-click something to get its Wowhead link ready to copy. /wh
+## Author: Tim
+## Version: 1.0.0
+## IconTexture: Interface\AddOns\WowheadLookup\WowheadLookup.tga
+## SavedVariables: WowheadLookupDB
+
+WowheadLookup.lua
